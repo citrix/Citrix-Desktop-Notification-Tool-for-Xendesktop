@@ -1,0 +1,9 @@
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\bin\Debug\XenDesktopNotificationToolV1.exe.config
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\bin\Debug\XenDesktopNotificationToolV1.exe
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\bin\Debug\XenDesktopNotificationToolV1.pdb
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\obj\Debug\XenDesktopNotification.PNA.resources
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\obj\Debug\XenDesktopNotificationToolV1.Properties.Resources.resources
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\obj\Debug\XenDesktopNotificationToolV1.csproj.GenerateResource.Cache
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\obj\Debug\XenDesktopNotificationToolV1.exe
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\obj\Debug\XenDesktopNotificationToolV1.pdb
+c:\ctx-roam-redirect\vg\documents\visual studio 2015\Projects\XenDesktopNotificationToolV1\XenDesktopNotificationToolV1\obj\Debug\XenDesktopNotificationToolV1.csprojResolveAssemblyReference.cache
